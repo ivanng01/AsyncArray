@@ -1,0 +1,15 @@
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\bin\Debug\net6.0\Asinc.exe
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\bin\Debug\net6.0\Asinc.deps.json
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\bin\Debug\net6.0\Asinc.runtimeconfig.json
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\bin\Debug\net6.0\Asinc.dll
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\bin\Debug\net6.0\Asinc.pdb
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.csproj.AssemblyReference.cache
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.AssemblyInfoInputs.cache
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.AssemblyInfo.cs
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.csproj.CoreCompileInputs.cache
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.dll
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\refint\Asinc.dll
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.pdb
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\Asinc.genruntimeconfig.cache
+C:\Users\IVAN GONZALEZ\source\repos\Asinc\Asinc\obj\Debug\net6.0\ref\Asinc.dll
